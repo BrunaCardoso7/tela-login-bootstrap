@@ -1,0 +1,8 @@
+html, body{
+    width: 100vw;
+    height: 100vh;
+}
+.form-conteiner{
+     max-width: 350px;
+     padding: 1rem;
+}
